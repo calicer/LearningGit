@@ -22,5 +22,6 @@ func justFun() {
 	fmt.Println("Crazyyyyy")
 
 	fmt.Print("Merge conflict")
+	fmt.Println("Crazzzzzy")
 
 }
