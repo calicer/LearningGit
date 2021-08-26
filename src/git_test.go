@@ -21,4 +21,6 @@ func justFun() {
 
 	fmt.Println("Crazyyyyy")
 
+	fmt.Println("Crazzzzzy")
+
 }
