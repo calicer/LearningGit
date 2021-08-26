@@ -7,4 +7,18 @@ func justFun() {
 
 	fmt.Println("We will go back from here")
 
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
+	fmt.Println("Crazyyyyy")
+
 }
