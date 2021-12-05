@@ -13,6 +13,8 @@ type Employee struct {
 	dept string
 }
 
+var a = 10
+
 func CreateEmployee(employee Employee) error {
 
 	db, err := sql.Open("postgres", "postgres://postgres:postgres@177.0.0.1:5432/postgres")
@@ -37,6 +39,7 @@ func CreateEmployee(employee Employee) error {
 	return err
 
 }
+
 func main() {
 	err := CreateEmployee(Employee{id: "1", name: "Vishal", dept: "EAIS"})
 
